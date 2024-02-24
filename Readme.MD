@@ -8,3 +8,7 @@ python3 main.py
 
 ## To install Flask ##
 pip install flask
+
+
+## Tools needed ##
+Postman
