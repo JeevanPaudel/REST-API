@@ -1,10 +1,7 @@
-This is the readme file for creating an API. Still W.I.P
+This is the readme file for creating an RAPI. 
 
+## Installing requirements ##
 
-Dependencies
+Download requirement.txt and keep it in the same folser
 
-## To run from Terminal ##
-python3 main.py
-
-## To install Flask ##
-pip install flask
+pip install -r requirements.txt
